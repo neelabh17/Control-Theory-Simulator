@@ -12,7 +12,7 @@ And this is what this project is all about. Figuring out a simple controll mecha
 ## Our Robot: 2R Manipulator
 <div align="center">
 
-![2R Manipulator](resources\src\manipulator.png)
+![2R Manipulator](resources/src/manipulator.png)
 </div>
 
 We are selecting a 2R manipulator. It has 2 arms of equal length, mass, density. The arms are connected using 2 revolute joints. There are motors at each joint to allow us to move the robot according to our wish. 
