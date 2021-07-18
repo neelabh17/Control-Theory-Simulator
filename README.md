@@ -31,23 +31,23 @@ We have three different problem statements.
 ### **1. PS1: Stand Still**
 The aim is to make the robot vertically straight against the gravity.
 
-q_1 = π
+q1 = π
 
-q_2 = 0
+q2 = 0
 
 ### **2. PS2: Extended Circle**
 The aim to make the end point of `arm2` to track a circle with the whole robot extended (`arm1` and `arm2` always parallel)
 
-q_1 = 2πt
+q1 = 2πt
 
-q_2 = 0
+q2 = 0
 
 ### **3. PS3: Verticle Circle**
 The aim to make `arm1` make a full revolution but `arm2` should remain in vertical orientation throughout the process
 
-q_1 = 2πt
+q1 = 2πt
 
-q_2 = π/2 - 2πt = π/2 - q_1  $$
+q2 = π/2 - 2πt = π/2 - q1
 
 
 
