@@ -1,13 +1,13 @@
 # Control-Theory Problem Statement
 Our aim is to do real time Robot control and tracking. Consider the following scenario.
 
-We designed a robot to move in a straight direction. But due to uneven gound it starts to drift away from the straight line. What should we do then? How to make a robot smart enough so that it can come back it its position? 
+We designed a robot to move in a straight direction. But due to uneven gound it starts to drift away from the straight line. What should we do then? How to make a robot smart enough so that it can comes back to its position? 
 
-In real wowrld scenarios, there are always small perturbations that might push away the robot from its desired trajectory. And this motivates us to have an auto corrective control in the robot that can guide itself back. 
+In real world scenarios, there are always small perturbations that might push away the robot from its desired trajectory. And this motivates us to have an auto corrective control in the robot that can guide itself back. 
 
 Haha, but the main question is: **What is this smart auto control strategy?**
 
-And this is what this project is all about. Figuring out a simple controll mechanism. (Note that this project is **not implementationally heavy**, almost all the code for simulation is already written, you just have to figure out the control strategy).
+And this is what this project is all about. Figuring out a simple control mechanism. (Note that this project is **not implementationally heavy**, almost all the code for simulation is already written, you just have to figure out the control strategy).
 
 ## Our Robot: 2R Manipulator
 <div align="center">
@@ -103,7 +103,7 @@ This will generate 3 video files that contain the simulation results.
 
 <div align="center">
 
-![2R Manipulator](resources\src\double_pendulum.png)
+![2R Manipulator](resources/src/double_pendulum.png)
 </div>
 
 
