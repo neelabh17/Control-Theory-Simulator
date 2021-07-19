@@ -31,7 +31,7 @@ We have three different problem statements.
 ### **1. PS1: Stand Still**
 The aim is to make the robot vertically straight against the gravity.
 
-q1 = π
+q1 = π/2
 
 q2 = 0
 
