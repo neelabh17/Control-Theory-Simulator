@@ -7,7 +7,7 @@ def controller(q1, q2, w1, w2, q1_desired, q2_desired):
     w1 is the angular velocity of the first arm
     w2 is the angular velocity of the second arm
     q1_desired is the desired angle of the first arm
-    q2_desired is the desired angle of the second
+    q2_desired is the desired angle of the second arm
 
     output->
 
